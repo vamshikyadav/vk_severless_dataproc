@@ -4,4 +4,8 @@
 
 https://cloud.google.com/dataproc-serverless/docs/guides/custom-containers
 
+## Docker build command
+
+docker build -f Dockerfile .
+
 
